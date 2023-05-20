@@ -6,22 +6,6 @@
   A passionate Web3 developer and Blockchain Developer from India
 </h3>
 
-<img
-  align="left"
-  width="400"
-  src="https://www.pixelcrayons.com/blog/wp-content/uploads/2021/08/great-coder.gif"
-  alt="coding"
-/>
-
-<img
-  align="right"
-  width="400"
-  src="https://miro.medium.com/v2/resize:fit:1400/1*c8cNsDjUqesk8bQ2v8uZ3g.gif"
-  alt="coding"
-/>
-
-
-
 
 <p align="center">
   <img
@@ -45,6 +29,24 @@
       alt="1am_sumitjha"
   /></a>
 </p>
+
+<img
+  align="left"
+  width="400"
+  src="https://www.pixelcrayons.com/blog/wp-content/uploads/2021/08/great-coder.gif"
+  alt="coding"
+/>
+
+<img
+  align="right"
+  width="400"
+  src="https://miro.medium.com/v2/resize:fit:1400/1*c8cNsDjUqesk8bQ2v8uZ3g.gif"
+  alt="coding"
+/>
+
+
+
+
 
 
 
