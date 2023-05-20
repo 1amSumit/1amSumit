@@ -298,17 +298,11 @@ fact **I love to play guitar and I love Hindi Poetry.**
   </a>
 </p>
 
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=1amsumit&show_icons=true&locale=en&layout=compact"
-    alt="1amsumit"
-  />
-</p>
+
 
 <p>
   &nbsp;<img
-    align="center"
+    align="left"
     src="https://github-readme-stats.vercel.app/api?username=1amsumit&show_icons=true&locale=en"
     alt="1amsumit"
   />
@@ -316,8 +310,16 @@ fact **I love to play guitar and I love Hindi Poetry.**
 
 <p>
   <img
-    align="center"
+    align="right"
     src="https://github-readme-streak-stats.herokuapp.com/?user=1amsumit&"
+    alt="1amsumit"
+  />
+</p>
+
+<p>
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=1amsumit&show_icons=true&locale=en&layout=compact"
     alt="1amsumit"
   />
 </p>
