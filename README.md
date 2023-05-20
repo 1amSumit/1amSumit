@@ -6,6 +6,16 @@
   A passionate Web3 developer and Blockchain Developer from India
 </h3>
 
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=1amsumit&label=Profile%20views&color=0e75b6&style=flat"
+    alt="1amsumit"
+  />
+</p>
+
+
+
 <img
   align="left"
   width="400"
@@ -21,12 +31,7 @@
 />
 
 
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=1amsumit&label=Profile%20views&color=0e75b6&style=flat"
-    alt="1amsumit"
-  />
-</p>
+
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
@@ -43,6 +48,8 @@
       alt="1am_sumitjha"
   /></a>
 </p>
+
+
 
 
 
@@ -320,7 +327,7 @@ fact **I love to play guitar and I love Hindi Poetry.**
 
 <p>
   <img
-    align="center"
+    align="right"
     src="https://github-readme-streak-stats.herokuapp.com/?user=1amsumit&"
     alt="1amsumit"
   />
