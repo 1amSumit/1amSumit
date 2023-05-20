@@ -327,7 +327,7 @@ fact **I love to play guitar and I love Hindi Poetry.**
 
 <p>
   <img
-    align="right"
+    align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=1amsumit&"
     alt="1amsumit"
   />
