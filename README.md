@@ -59,7 +59,7 @@
 
 
 
-- 🔭 I’m currently working on [Chess project](https://github.com/1amSumit/Chess)
+- 🔭 I’m currently working on [User can Chat and upload pic and videos  project](https://github.com/1amSumit/Chess)
 - 🌱 I’m currently learning **React** - 👨‍💻 All of my projects are available at
 [https://sumitjha.netlify.app/](https://sumitjha.netlify.app/) - 💬 Ask me about
 **react, Blockchain** - 📫 How to reach me **sumitjha.0718@gmail.com** - ⚡ Fun
