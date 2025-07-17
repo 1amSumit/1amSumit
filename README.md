@@ -34,7 +34,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SumitJha-tech&theme=radical&no-frame=true&title=Stars,Commits,Followers,PullRequest,Repositories,Issues" />
+  <img src="https://github-profile-trophy.vercel.app/?username=1amSumit&theme=radical&no-frame=true&title=Stars,Commits,Followers,PullRequest,Repositories,Issues" />
 </p>
 
 ---
