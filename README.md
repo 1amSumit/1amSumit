@@ -15,8 +15,8 @@
 - 🎤 Conducted a workshop on API development & backend communication
 - 🧠 Hackathon Finalist & Winner (EcoEquify, Cypher Case, Web Design)
 - 🔭 Currently working on:
-  - 📱 **Gallery App** (React Native + NativeWind)
-  - 💸 **Expense Tracker** with calendar-based dynamic logging
+  - 📱 **Building Startup**
+  - 💸 **Ghost Dating App**
   - ✈️ **Arrise** – AI-Powered Flight Booking + Destination Recommender
   - 🪞 **Smart Mirror AI** – Voice-controlled mirror assistant with news, music, reminders
 
