@@ -9,8 +9,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 3rd Year CSE Student at **Bapuji Institute of Engineering and Technology, Davangere**
-- 💼 Full-Stack Developer (MERN) with **3+ years** of experience
+- 💼 Full-Stack Developer (MERN) with **4+ years** of experience
 - 🛠️ Building smart mobile & web apps that actually solve real-world problems
 - 🎤 Conducted a workshop on API development & backend communication
 - 🧠 Hackathon Finalist & Winner (EcoEquify, Cypher Case, Web Design)
